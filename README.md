@@ -28,8 +28,6 @@ the notebook demonstrates how data-driven models can support early diagnosis and
 - Visualized distributions of features such as **age, cholesterol, chest pain type, and resting BP**.  
 - Explored correlation between features and the target variable.  
 
-📸 Example Correlation Heatmap:  
-![Correlation Heatmap](images/heart_correlation.png)  
 
 ---
 
@@ -54,11 +52,6 @@ Trained multiple classification models:
 - Metrics used: **Accuracy, Precision, Recall, F1-score, ROC-AUC**  
 - Visualized confusion matrices for each model.  
 
-📸 Example Confusion Matrix:  
-![Confusion Matrix](images/heart_confusion_matrix.png)  
-
-📸 Example ROC Curve:  
-![ROC Curve](images/heart_roc_curve.png)  
 
 ---
 
